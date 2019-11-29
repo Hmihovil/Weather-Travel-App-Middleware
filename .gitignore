@@ -1,0 +1,5 @@
+# Ignore idea project setting folder
+.idea
+
+# Ignore target files
+/target
